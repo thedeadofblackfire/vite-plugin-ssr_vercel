@@ -1,5 +1,6 @@
 import { createSSRApp, h } from 'vue'
 import PageLayout from './PageLayout.vue'
+import './index.css'
 
 export { createApp }
 
