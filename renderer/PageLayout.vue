@@ -7,6 +7,8 @@
       <a class="navitem" href="/">Home</a>
       <a class="navitem" href="/about">About</a>
 	  <a class="navitem" href="/demo">Demo</a>
+	  <a class="navitem" href="/star-wars/1">movie 1</a>
+	  <a class="navitem" href="/star-wars/2">movie 2</a>
     </div>
     <div class="content"><slot /></div>
   </div>

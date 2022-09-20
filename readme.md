@@ -14,3 +14,7 @@ Integration points:
  - Routing URLs to our API Route: [vercel.json#rewrites](vercel.json).
  - Build: the [package.json](package.json)'s scripts `package.json#scripts['vercel-build']` and `package.json#scripts.build`.
  - Development: the [package.json](package.json)'s script `package.json#scripts.dev`; we use Vite's development server for improved DX.
+
+``` 
+/star-wars/2
+```
