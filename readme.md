@@ -18,3 +18,5 @@ Integration points:
 ``` 
 /star-wars/2
 ```
+
+"daisyui": "^2.6.0",
