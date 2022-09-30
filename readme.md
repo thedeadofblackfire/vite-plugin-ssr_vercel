@@ -20,3 +20,6 @@ Integration points:
 ```
 
 "daisyui": "^2.6.0",
+
+https://directus-serverless-vercel.vercel.app/proxy/v1/status
+https://directus-serverless-vercel.vercel.app/proxy/sys/serverless/info
