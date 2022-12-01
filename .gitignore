@@ -2,3 +2,4 @@
 /dist/
 /.vercel/
 /.output/
+pnpm-lock.yaml
